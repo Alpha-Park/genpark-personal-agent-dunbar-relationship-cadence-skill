@@ -1,0 +1,10 @@
+{
+  "name": "genpark-personal-agent-dunbar-relationship-cadence-skill",
+  "version": "1.0.0",
+  "description": "Personal Agent Dunbar Relationship Cadence - Zero-dependency Dunbar concentric layer social network classifier, exponential relationship half-life decay estimator, and thoughtful touchpoint scheduler.",
+  "tools": [
+    "classify_dunbar_layer_and_cadence",
+    "compute_relationship_entropy_and_drift",
+    "generate_thoughtful_reconnection_cadence"
+  ]
+}
